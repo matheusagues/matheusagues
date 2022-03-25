@@ -27,7 +27,7 @@
   ##
  
 <div> 
-  <a href="https://bityli.com/wQOwg" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"      target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5521980060783&text=Ol%C3%A1%2C%20vim%20pelo%20GitHub!%20Est%C3%A1%20dispon%C3%ADvel%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"      target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-agues-262331131/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:matheus.agues5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.instagram.com/matheus_agues/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
