@@ -2,7 +2,7 @@
 - 🔭 Atualmente estou trabalhando no mercado financeiro;
 - 🌱 Aprendendo Python, VBA e Power BI;
 - 👀 Tenho interesse em Dashboards, Automatização e IAs;
-- � Colaboro no desenvolvimento de projetos de Automatização e Análise de Dados;
+- 📊 Colaboro no desenvolvimento de projetos de Automatização e Análise de Dados;
 - 📫 Como me contatar: matheus.agues5@gmail.com;
 
 ## Olá, eu sou o Matheus Agues, Estudante de Engenharia e Desenvolvedor de Dashboards!
