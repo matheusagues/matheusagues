@@ -1,28 +1,26 @@
 - 👷🏼 Sou Estudante de Engenharia Civil;
 - 🔭 Atualmente estou trabalhando no mercado financeiro;
 - 🌱 Aprendendo Python, VBA e Power BI;
-- 👀 Tenho interesse em Dashboards, Automação e IA;
-- 💞 Colaboro no desenvolvimento de projetos de Automatização e Análise de Dados;
+- 👀 Tenho interesse em Dashboards, Automatização e IAs;
+- � Colaboro no desenvolvimento de projetos de Automatização e Análise de Dados;
 - 📫 Como me contatar: matheus.agues5@gmail.com;
-- ⚡ Curiosidade: Amo poesia...
 
 ## Olá, eu sou o Matheus Agues, Estudante de Engenharia e Desenvolvedor de Dashboards!
 
 <div align="center">
   <a href="https://github.com/matheusagues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusagues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusagues&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusagues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusagues&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <img align="center" alt="Matheus-Excel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg">
   <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Matheus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Matheus-PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
   <img align="right" alt="Matheus-pic" height="150" style="border-radius:50px;" 
        src="https://media-exp1.licdn.com/dms/image/C4E03AQGvAJeqmsg7uQ/profile-displayphoto-shrink_200_200/0/1630329559018?e=1652313600&v=beta&t=oA8UQTVX4EOKbMMwx9ZkBeXl2DUDNwPyKY88QAopnHY">
+  <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
   
   ##
